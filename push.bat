@@ -1,3 +1,3 @@
 git add . --all
-git commit -m "and stuff"
+git commit -m "update"
 git push origin master
